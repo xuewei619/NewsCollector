@@ -1,0 +1,5 @@
+com/alibaba/demo/provider/DemoServiceImpl.class
+com/alibaba/demo/DemoService.class
+com/alibaba/demo/consumer/Consumer.class
+com/alibaba/demo/provider/Provider.class
+news/news/App.class
